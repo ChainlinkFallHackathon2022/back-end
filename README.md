@@ -230,16 +230,3 @@ Ex. Modify NFT likes in a orbitDB document.
     },
   });
   ```
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-- Leandro Labiano - Blockchain Developer - [@your_twitter](https://twitter.com/your_username) - email@example.com
-- Guillermo Izquierdo - Full Stack Developer - [@S7Joms](https://twitter.com/S7Joms) - guille1000142@gmail.com
