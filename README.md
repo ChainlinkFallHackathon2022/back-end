@@ -1,17 +1,3 @@
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">GRID BOT</h3>
-
-  <p align="center">
-   CHAINLINK HACKATHON 2022
-    <br />
-    <a href="https://wispy-snowflake-7196.on.fleek.co/" target="_blank"><strong>Visit project</strong></a>
-  </p>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of contents
